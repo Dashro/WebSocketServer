@@ -41,3 +41,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+*.sdf
+*.obj
+*.pdb
+*.log
+*.tlog
+WebSocketServer/WebSocketServer/GeneratedFiles/Debug/moc_Data.cpp
+WebSocketServer/WebSocketServer/GeneratedFiles/Debug/moc_websocketserver.cpp
+WebSocketServer/WebSocketServer/GeneratedFiles/ui_websocketserver.h
+WebSocketServer/WebSocketServer/GeneratedFiles/qrc_websocketserver.cpp
+*.user
+*.ilk
